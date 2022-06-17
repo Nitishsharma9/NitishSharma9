@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 #### **Hello! I created this list and am constantly updating it with new resources, information, and news. If you want to stay updated on the newest trends, tutorials, and articles in the Web Development world, get me or follow me on github and Linkedin**
 
 ---
-| **1.[Programs & Classes](#programs-and-classes)**|&nbsp;&nbsp;&nbsp;&nbsp;  | **2.[Learn HTML](#learn-html)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **3.[Learn CSS](#learn-css)** |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+| **1.[Programs & Classes](#programs-and-classes)**&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;  | **2.[Learn HTML](#learn-html)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **3.[Learn CSS](#learn-css)** |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 | **4.[Learn JavaScript](#learn-javascript)**|  <br />
 | **5.[Learn React.js](#learn-react-js)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; | **6.[Full Stack Tutorials](#full-stack-tutorials)** |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  | **7.[Learn Node.js](#learn-node-js)** | &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **8.[Learn APIs](#learn-apis)** | <br />
-| **9.[Learn Databases](#learn-databases)** &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|;&nbsp;&nbsp; | **10.[Learn Authentication](#learn-authentication)** |&nbsp;&nbsp; | **11.[Learn Git](#learn-git)** |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **12.[Resume's, Portfolio's, LinkedIn, Interview Prep, & Salary Information](#get-the-job)**|
+| **9.[Learn Databases](#learn-databases)** &nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp; | **10.[Learn Authentication](#learn-authentication)** |&nbsp;&nbsp; | **11.[Learn Git](#learn-git)** |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | **12.[Resume's, Portfolio's, LinkedIn, Interview Prep, & Salary Information](#get-the-job)**|
 
 ---
 ---
