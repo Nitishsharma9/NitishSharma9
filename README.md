@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ---
 
-|1.**[Programs & Classes](#programs-and-classes)**|       |2.**[Learn HTML](#learn-html)**|      |3.**[Learn CSS](#learn-css)**|
+|**1.[Programs & Classes](#programs-and-classes)**|       |**2. [Learn HTML](#learn-html)**|      |**3.[Learn CSS](#learn-css)**|
 
 
 4. **[Learn JavaScript](#learn-javascript)**
