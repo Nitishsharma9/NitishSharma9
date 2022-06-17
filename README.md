@@ -83,8 +83,6 @@ Here are some ideas to get you started:
 * [Express JS Database Integration](https://expressjs.com/en/guide/database-integration.html)
 * [MongoDB MERN Tutorial Series](https://www.mongodb.com/blog/post/the-modern-application-stack-part-1-introducing-the-mean-stack)
 * [Full Stack MERN Tutorial - YouTube](https://www.youtube.com/watch?v=cV-bGvnRZdw)
-* [How to Create a Complete Express.js + Node.js + MongoDB CRUD and REST Skeleton](https://www.airpair.com/javascript/complete-expressjs-nodejs-mongodb-crud-skeleton)
-* [Building web app using react.js, express.js, node.js and mongodb](http://www.codeproject.com/Articles/1067725/Part-Building-web-app-using-react-js-express-js) - Part 1, 2
 * [Trello tribute with Phoenix, React, Redux, PostgreSQL](http://codeloveandboards.com/blog/2016/01/04/trello-tribute-with-phoenix-and-react-pt-1/) - 12 parts
 * [Create a character voting app using React, Node.js, MongoDB and Socket.IO](http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio/)
 * [Building a React Universal Blog App: A Step-by-Step Guide](https://www.sitepoint.com/building-a-react-universal-blog-app-a-step-by-step-guide/)
@@ -102,7 +100,6 @@ Here are some ideas to get you started:
 ### Learn APIs
 
   * [What is an API? In English Please. (Medium)](https://medium.freecodecamp.com/what-is-an-api-in-english-please-b880a3214a82#.vewp5i2n4)
-  
   * [Build Node.js RESTful APIs in 10 Minutes](https://www.codementor.io/olatundegaruba/nodejs-restful-apis-in-10-minutes-q0sgsfhbd)
   * [Free Intro to APIs Book/Course by Zapier](https://zapier.com/learn/apis/)
   * [Google Maps API](https://developers.google.com/maps/documentation/)
@@ -134,21 +131,7 @@ Here are some ideas to get you started:
   * [Git, the simple guide](http://rogerdudler.github.io/git-guide/)
   * [Learn Git Branching - Level by Level learning](http://learngitbranching.js.org/)
   * [Learn Git in 30 Minutes - Article](http://tutorialzine.com/2016/06/learn-git-in-30-minutes/)
-  * [Here are all the Git commands I used last week and what they do (Medium)](https://medium.freecodecamp.com/git-cheat-sheet-and-best-practices-c6ce5321f52)
-* Why to Use GIT [No, I have no side projects to show you](https://www.linkedin.com/pulse/i-have-side-code-projects-show-you-ezekiel-buchheit)
-
----
-
-### Get The Job
-** LinkedIn and Interview Prep**
   
-* How to Apply
-  * [I spent 3 months applying to jobs after a coding bootcamp. Here’s what I learned. (Medium)](https://medium.freecodecamp.com/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331#.lpuzt5pnw)
-  
-* Common JavaScript Interview Questions Repo
-    * [GitHub Repo - All questions and answers](https://github.com/Nitishsharma9/interview-questions/blob/main/README.md#table-of-contents)
- 
-
 ---
  If you found value in something I have created, I  I would love to see you join.
 
