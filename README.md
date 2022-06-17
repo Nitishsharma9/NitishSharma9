@@ -1,5 +1,5 @@
 ### Hi there 👋
-###  This Noob have some private repositories 😄.
+###  MindBlowing This Noob have some public repositories . 😄
 
 <!--
 **Nitishsharma9/NitishSharma9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
