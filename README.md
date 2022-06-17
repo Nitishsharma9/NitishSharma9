@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 #### **Hello! I created this list and am constantly updating it with new resources, information, and news. If you want to stay updated on the newest trends, tutorials, and articles in the Web Development world, get me or follow me on github and Linkedin**
 
 ---
-| **1.[Programs & Classes](#programs-and-classes)**&nbsp;&nbsp;  | **2.[Learn HTML](#learn-html)**&nbsp;&nbsp; | | **3.[Learn CSS](#learn-css)** |&nbsp;&nbsp;
+| **1.[Programs & Classes](#programs-and-classes)**&nbsp;&nbsp;  | **2.[Learn HTML](#learn-html)**&nbsp;&nbsp; | | **3.[Learn CSS](#learn-css)** |&nbsp;&nbsp;<br />
 | **4.[Learn JavaScript](#learn-javascript)**|       | **5.[Learn React.js](#learn-react-js)**| | **6.[Full Stack Tutorials](#full-stack-tutorials)** | 
 | **7.[Learn Node.js](#learn-node-js)** |            | **8.[Learn APIs](#learn-apis)** | | **9.[Learn Databases](#learn-databases)** | 
 | **10.[Learn Authentication](#learn-authentication)** | | **11.[Learn Git](#learn-git)** | | **12.[Resume's, Portfolio's, LinkedIn, Interview Prep, & Salary Information](#get-the-job)**|
