@@ -90,26 +90,7 @@ The list below isn't meant to be exclusive, it's more so a collection of links t
 ### Learn React JS
 
 * Official React [Docs](https://reactjs.org/)
-* Official React [Tutorial](https://facebook.github.io/react/tutorial/tutorial.html)
-* 3rd Party Tutorials
-  * [10 React Mini Patterns](https://hackernoon.com/10-react-mini-patterns-c1da92f068c5#.nn8nyilyi)
-  * [Top 5 Tutorials for getting started with React](http://andrewhfarmer.com/getting-started-tutorials/)
-  * [10 best ReactJS tutorials](http://noeticforce.com/best-reactjs-tutorials-with-examples)
-  * [Three awesome courses for learning React JS (Paid courses under $20)](https://hackernoon.com/javascript-frameworks-learn-react-js-2ed10c0dc06d)
-  * [React Starter Project Search](http://andrewhfarmer.com/starter-project/)
-  * [Exploring the react Ecosystem!](https://www.toptal.com/react/navigating-the-react-ecosystem) - Article
-  * [Code academy React program](HTTPS://www.codeacademy.com)
-  * [Great Free React books](https://github.com/vhf/free-programming-books/blob/master/javascript-frameworks-resources.md) - Use this link first
-  * [Code Daily](https://codedaily.io/)
-  * [25 React Native Tutorials](https://codeburst.io/25-react-native-tutorials-5b613e3f46ac) - Learn React Native by exploring these 25 tutorials.
-  * [Build a Todo Application with React Native](https://codedaily.io/courses/2/Build-a-React-Native-Todo-Application)
-  * [Learn to Animate with React Native](https://codedaily.io/courses/1/Animate-React-Native-UI-Elements)
-* Medium Links:
-  * [React Components, Elements, and Instances (Medium)](https://medium.com/@dan_abramov/react-components-elements-and-instances-90800811f8ca#.rjx4d6bgw)
-  * [Working with React](https://medium.com/@prodia/working-with-react-js-3e21a2ff5443#.ensczdgi0)
-  * [Beginners guide to React Router (Medium)](https://medium.com/@dabit3/beginner-s-guide-to-react-router-53094349669#.4lul6fhvy)
-  * [Angular JS vs React JS (Medium)](https://medium.com/@paramsingh_66174/angularjs-vs-reactjs-e651a194dfcb#.bbx4qapwu)
-  * [React Native: Nine Animation Screencast Tutorials](https://codeburst.io/react-native-nine-animation-screencast-tutorials-9d031e8bb86f)
+* Official React [Tutorial](https://reactjs.org/tutorial/tutorial.html)
 
 ---
 ### Full Stack Tutorials
@@ -131,28 +112,20 @@ The list below isn't meant to be exclusive, it's more so a collection of links t
 * [Trello tribute with Phoenix, React, Redux, PostgreSQL](http://codeloveandboards.com/blog/2016/01/04/trello-tribute-with-phoenix-and-react-pt-1/) - 12 parts
 * [Create a character voting app using React, Node.js, MongoDB and Socket.IO](http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio/)
 * [Building a React Universal Blog App: A Step-by-Step Guide](https://www.sitepoint.com/building-a-react-universal-blog-app-a-step-by-step-guide/)
-* [Building a Secure RESTful Node.js app](http://thejackalofjavascript.com/architecting-a-restful-node-js-app/)
-* Cool stuff other people have built:
+## * Cool stuff other people have built:
 * [Belgian Beer Explorer with React, Bootstrap, Node.js and Postgres](http://coenraets.org/blog/2015/01/belgian-beer-explorer-with-react-bootstrap-node-js-and-postgres/)
 * [90 Full Stack React Examples (some with tuts)](https://react.rocks/tag/FullStack?show=40)
-* [Confessions of an Unintentional CTO - lessons in growing a web app](https://www.jackkinsella.ie/books/confessions_of_an_unintentional_cto)
 
 ---
 ### Learn Node JS
 
 * Official Node.js [Docs](https://nodejs.org/en/docs/)
-* [25 Node JS Tutorials](https://codeburst.io/25-node-js-tutorials-1db3b1da0260) - Learn Node JS by exploring these 25 free tutorials.
-* Resources for learning Node.js [[Reddit Link]](https://www.reddit.com/r/learnprogramming/comments/5xpidt/best_resource_to_learn_nodejs/)
   * [YouTube](https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)
   * [Colt Steele's Bootcamp](http://bit.ly/2yEYsoB)
   * [Node School](https://nodeschool.io/#workshoppers)
   * [Medium - Why the hell would you use Node?](https://medium.com/the-node-js-collection/why-the-hell-would-you-use-node-js-4b053b94ab8e#.9s49rbove)
 * Courses/Tutorials
-  * [Three awesome courses for learning Node.js (Paid courses under $20)](https://codeburst.io/three-awesome-courses-for-learning-node-js-d7f761437101)
-  * [Build a simple Twitter Bot with Node.js in just 38 lines of code](https://codeburst.io/build-a-simple-twitter-bot-with-node-js-in-just-38-lines-of-code-ed92db9eb078)
-  * [Build a simple Twitter Bot with Node.js - PART 2](https://codeburst.io/build-a-simple-twitter-bot-with-node-js-part-2-do-more-2ef1e039715d)
-  * [Build a simple Weather App with Node.js in just 16 lines of code](https://codeburst.io/build-a-simple-weather-app-with-node-js-in-just-16-lines-of-code-32261690901d)
-  * [Learn to build an Amazon Alexa Skill with Node.js (and get paid to do it)](https://codeburst.io/learn-to-build-an-amazon-alexa-skill-with-node-js-and-get-paid-to-do-it-cf55ae534650)
+  
   * [Building a modern backend API with Node](https://scotch.io/tutorials/building-and-securing-a-modern-backend-api?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
   * [Node JS Login with Passport - YouTube](https://www.youtube.com/watch?v=Z1ktxiqyiLA)
   * [10 Best Practices for Writing Node.js REST APIs](https://blog.risingstack.com/10-best-practices-for-writing-node-js-rest-apis/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
@@ -162,9 +135,8 @@ The list below isn't meant to be exclusive, it's more so a collection of links t
 
 ### Learn APIs
 
-* Where to start with learning APIs [[Reddit Link]](https://www.reddit.com/r/learnprogramming/comments/5761ir/where_to_start_with_learning_how_to_use_apis/)
   * [What is an API? In English Please. (Medium)](https://medium.freecodecamp.com/what-is-an-api-in-english-please-b880a3214a82#.vewp5i2n4)
-  * [Build a simple Weather App with Node.js in just 16 lines of code](https://codeburst.io/build-a-simple-weather-app-with-node-js-in-just-16-lines-of-code-32261690901d)
+  
   * [Build Node.js RESTful APIs in 10 Minutes](https://www.codementor.io/olatundegaruba/nodejs-restful-apis-in-10-minutes-q0sgsfhbd)
   * [Free Intro to APIs Book/Course by Zapier](https://zapier.com/learn/apis/)
   * [Google Maps API](https://developers.google.com/maps/documentation/)
@@ -186,7 +158,6 @@ The list below isn't meant to be exclusive, it's more so a collection of links t
 ### Learn Authentication
 * [Authentication & Authorization: OAuth](https://www.udacity.com/course/authentication-authorization-oauth--ud330)
 * [Learn about JSON Web Tokens](https://jwt.io/introduction/)
-* [JWT Sample App Example](https://scotch.io/tutorials/authenticate-a-node-js-api-with-json-web-tokens)
 * [OAuth 2](https://aaronparecki.com/oauth-2-simplified/#web-server-apps)
 * [Passwordless Authentication with React and Auth0](https://medium.com/javascript-scene/passwordless-authentication-with-react-and-auth0-c4cb003c7cde#.l1joiokr2)
 
@@ -205,34 +176,20 @@ The list below isn't meant to be exclusive, it's more so a collection of links t
 **Resume, Portfolio, LinkedIn, Interview Prep, and Salary Information**
 * Make your portfolio
   * [Customizable Web Developer Portfolio](https://github.com/bmorelli25/portfolio-template) - Built with Flexbox. 
-  * [10 Awesome Web Developer Portfolios](https://codeburst.io/10-awesome-web-developer-portfolios-d266b32e6154)
 
 * How to Apply
   * [I spent 3 months applying to jobs after a coding bootcamp. Here’s what I learned. (Medium)](https://medium.freecodecamp.com/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331#.lpuzt5pnw)
   * [Lessons from my Post-bootcamp Job search (Medium)](https://medium.freecodecamp.com/lessons-from-my-post-bootcamp-job-search-in-london-cb37ea12ec2f#.u83avhawf)
   * [How to land a six figure job in tech with no connections (Medium)](https://medium.freecodecamp.com/how-you-can-land-a-6-figure-job-in-tech-with-no-connections-6eed0de26ea4#.9cc270q7j)
 
-* Resume & LinkedIn
-  * [What are some of the best resuмe formats you've seen?](https://www.reddit.com/r/cscareerquestions/comments/5gnmkj/what_are_some_of_the_best_resu%D0%BCe_formats_youve/)
-  * [Model examples for Fullstack Developer LinkedIn profiles](https://www.reddit.com/r/cscareerquestions/comments/5f5e3f/what_are_some_model_examples_for_fullstack/)
-
-* Personal Projects
-  * [Recruiters, what kind of CS projects impress?](https://www.reddit.com/r/cscareerquestions/comments/586lbg/recruiters_what_kind_of_cs_projects_impress/)
 
 * Interview Prep
   * [CS50 - Prep and Practice for Technical Interviews [YouTube]](https://youtu.be/qIi-tIrcaww?t=2m32s)
   * [How to Break Into the Tech Industry—a Guide to Job Hunting and Tech Interviews](http://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/)
   * Common JavaScript Interview Questions Repo
     * [GitHub Repo - All questions and answers](https://github.com/kennymkchan/interview-questions-in-javascript)
-    * [Reddit Post - Discussion, with additional questions and answers](https://www.reddit.com/r/learnprogramming/comments/5sa35k/fun_github_repo_containing_common_interview/)
-  * [Ammon Bartram - Ask an interviewer anything: interview questions, answers, mistakes](https://www.reddit.com/r/cscareerquestions/comments/5y95x6/i_am_ammon_bartram_and_i_have_done_900/)
-  * [Sharing some interview tips (Silicon valley employee)](https://www.reddit.com/r/cscareerquestions/comments/5w2oyn/sharing_some_interview_tips/)
-  * [Job interview questions to ask the interviewer](https://www.reddit.com/r/AskReddit/comments/5iqnkj/at_the_end_of_a_job_interview_they_always_ask/)
-  * [I suck at programming interviews.](https://www.reddit.com/r/cscareerquestions/comments/5dk7we/i_suck_at_programming_interviews_maybe_i_suck_too/)
-  * [When solving an interview problem, talk all the time.](https://www.reddit.com/r/cscareerquestions/comments/58htcc/when_solving_an_interview_problem_talk_all_the/)
-  * [Hiring managers (or other seasoned developers), what qualities do you look for in your ideal candidate?](https://www.reddit.com/r/cscareerquestions/comments/5557j0/hiring_managers_or_other_seasoned_developers_what/)
-  * [Post your best interview questions](https://www.reddit.com/r/cscareerquestions/comments/4rdcy0/post_your_best_interview_questions/)
-  * [Been interviewing with a lot of tech startups as a frontend dev, here are the technical questions I've been asked (MID-SENIOR LEVEL)](https://www.reddit.com/r/webdev/comments/3f7q3q/been_interviewing_with_a_lot_of_tech_startups_as/)
+    
+  
   * [10 Interview Questions every JS Developer should know (Medium)](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95#.v0dk97v5v)
 
 
