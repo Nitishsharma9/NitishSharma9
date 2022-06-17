@@ -1,5 +1,5 @@
 ### Hi there 👋
-###  HEY Noob want to have my private repositories 😄.
+###  This Noob have some private repositories 😄.
 
 <!--
 **Nitishsharma9/NitishSharma9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Some Free resources for learning Full Stack Web Development.
+## Some resources for learning Full Stack Web Development.
 
-#### **Hello! I created this list and am constantly updating it with new resources, information, and news. If you want to stay updated on the newest trends, tutorials, and articles in the Web Development world, please follow me on github and Linkedin**
+#### **Hello! I created this list and am constantly updating it with new resources, information, and news. If you want to stay updated on the newest trends, tutorials, and articles in the Web Development world, get me or follow me on github and Linkedin**
 
 ---
 
@@ -42,9 +42,7 @@ Here are some ideas to get you started:
 * Programs
   * [MDN](https://developer.mozilla.org/en-US/)
   * [FreeCodeCamp](https://www.freecodecamp.com/)
-* Classes
-  
-  * [Udacity Free Web Development Courses (Google)](https://www.udacity.com/courses/web-development)
+
 
 
 ---
@@ -67,9 +65,6 @@ Here are some ideas to get you started:
 ### Learn JavaScript
 
 * Javascript [Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-* Courses/Tutorials
-  * [Intermediate Course - Udacity - OOP JS](https://www.udacity.com/course/object-oriented-javascript--ud015)
-  
 
 * Articles/Books
   * [Recursion, Recursion, Recursion (Medium)](https://medium.freecodecamp.com/recursion-recursion-recursion-4db8890a674d#.dtkatvb6j)
@@ -92,14 +87,11 @@ Here are some ideas to get you started:
 * [Deploying Applications with Heroku](https://www.udacity.com/course/deploying-applications-with-heroku--ud272)
 * [Client Server Communication](https://www.udacity.com/course/client-server-communication--ud897)
 * [Serverless Stack](http://serverless-stack.com/) is a comprehensive guide to creating full-stack serverless applications. Create a note taking app from scratch using React.js, AWS Lambda, API Gateway, DynamoDB, and Cognito.
-* [Express - Using a DB with Mongoose](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/mongoose)
 * [Node JS and Databases](https://blog.risingstack.com/node-js-database-tutorial/)
 * [Node JS and Authentication](https://blog.risingstack.com/node-hero-node-js-authentication-passport-js/)
 * [Express JS Database Integration](https://expressjs.com/en/guide/database-integration.html)
-* [MERN Stack Tutorial - Mongo, Express, React, Node](https://medium.com/@bryantheastronaut/react-getting-started-the-mern-stack-tutorial-feat-es6-de1a2886be50#.xfd2ixtz6)
 * [MongoDB MERN Tutorial Series](https://www.mongodb.com/blog/post/the-modern-application-stack-part-1-introducing-the-mean-stack)
 * [Full Stack MERN Tutorial - YouTube](https://www.youtube.com/watch?v=cV-bGvnRZdw)
-* [Build a URL Shortener with Node, Hapi, and Mongo](https://codetuts.tech/build-a-url-shortener-node-hapi-js/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
 * [How to Create a Complete Express.js + Node.js + MongoDB CRUD and REST Skeleton](https://www.airpair.com/javascript/complete-expressjs-nodejs-mongodb-crud-skeleton)
 * [Building web app using react.js, express.js, node.js and mongodb](http://www.codeproject.com/Articles/1067725/Part-Building-web-app-using-react-js-express-js) - Part 1, 2
 * [Trello tribute with Phoenix, React, Redux, PostgreSQL](http://codeloveandboards.com/blog/2016/01/04/trello-tribute-with-phoenix-and-react-pt-1/) - 12 parts
@@ -112,12 +104,8 @@ Here are some ideas to get you started:
 
 * Official Node.js [Docs](https://nodejs.org/en/docs/)
   * [YouTube](https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)
-  * [Colt Steele's Bootcamp](http://bit.ly/2yEYsoB)
-  
-* Courses/Tutorials
-  
   * [Node JS Login with Passport - YouTube](https://www.youtube.com/watch?v=Z1ktxiqyiLA)
-  * [10 Best Practices for Writing Node.js REST APIs](https://blog.risingstack.com/10-best-practices-for-writing-node-js-rest-apis/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
+  
   
 
 ### Learn APIs
@@ -160,15 +148,11 @@ Here are some ideas to get you started:
 
 ### Get The Job
 **Resume, LinkedIn and Interview Prep**
-* Make your portfolio
   
 * How to Apply
   * [I spent 3 months applying to jobs after a coding bootcamp. Here’s what I learned. (Medium)](https://medium.freecodecamp.com/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331#.lpuzt5pnw)
   
-* Interview Prep
-  * [CS50 - Prep and Practice for Technical Interviews [YouTube]](https://youtu.be/qIi-tIrcaww?t=2m32s)
-  * [How to Break Into the Tech Industry—a Guide to Job Hunting and Tech Interviews](http://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/)
-  * Common JavaScript Interview Questions Repo
+* Common JavaScript Interview Questions Repo
     * [GitHub Repo - All questions and answers](https://github.com/Nitishsharma9/interview-questions/blob/main/README.md#table-of-contents)
  
 
