@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 #### **Hello! I created this list and am constantly updating it with new resources, information, and news. If you want to stay updated on the newest trends, tutorials, and articles in the Web Development world, get me or follow me on github and Linkedin**
 
 ---
-| First Header  | Second Header |
+| **1.[Programs & Classes](#programs-and-classes)**  | **2. [Learn HTML](#learn-html)** | | **3.[Learn CSS](#learn-css)** |
 | ------------- | ------------- |
 | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  |
