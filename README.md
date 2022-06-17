@@ -56,8 +56,6 @@ The list below isn't meant to be exclusive, it's more so a collection of links t
 ### Learn HTML
 
 * [Introduction to HTML - Mozilla Docs](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)
-* [Learn to code HTML & CSS - Shay Howe](http://learn.shayhowe.com/html-css/)
-* [HTML Fundamentals - SoloLearn](https://www.sololearn.com/Course/HTML/)
 * [HTML Cheat Sheet](https://websitesetup.org/html5-cheat-sheet/)
 * [HTML5 Full Tutorial - w3schools](https://www.w3schools.com/html/)
 * [HTML5 Tutorial PDF DOWNLOAD - tutorialspoint](https://www.tutorialspoint.com/html5/html5_tutorial.pdf)
@@ -75,7 +73,6 @@ The list below isn't meant to be exclusive, it's more so a collection of links t
 
 * Javascript [Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 * Courses/Tutorials
-  * Javascript [The Right Way](http://jstherightway.org/)
   * [Intermediate Course - Udacity - OOP JS](https://www.udacity.com/course/object-oriented-javascript--ud015)
   
 
@@ -113,9 +110,7 @@ The list below isn't meant to be exclusive, it's more so a collection of links t
 * [Trello tribute with Phoenix, React, Redux, PostgreSQL](http://codeloveandboards.com/blog/2016/01/04/trello-tribute-with-phoenix-and-react-pt-1/) - 12 parts
 * [Create a character voting app using React, Node.js, MongoDB and Socket.IO](http://sahatyalkabov.com/create-a-character-voting-app-using-react-nodejs-mongodb-and-socketio/)
 * [Building a React Universal Blog App: A Step-by-Step Guide](https://www.sitepoint.com/building-a-react-universal-blog-app-a-step-by-step-guide/)
-## * Cool stuff other people have built:
-* [Belgian Beer Explorer with React, Bootstrap, Node.js and Postgres](http://coenraets.org/blog/2015/01/belgian-beer-explorer-with-react-bootstrap-node-js-and-postgres/)
-* [90 Full Stack React Examples (some with tuts)](https://react.rocks/tag/FullStack?show=40)
+
 
 ---
 ### Learn Node JS
@@ -123,16 +118,12 @@ The list below isn't meant to be exclusive, it's more so a collection of links t
 * Official Node.js [Docs](https://nodejs.org/en/docs/)
   * [YouTube](https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)
   * [Colt Steele's Bootcamp](http://bit.ly/2yEYsoB)
-  * [Node School](https://nodeschool.io/#workshoppers)
-  * [Medium - Why the hell would you use Node?](https://medium.com/the-node-js-collection/why-the-hell-would-you-use-node-js-4b053b94ab8e#.9s49rbove)
+  
 * Courses/Tutorials
   
-  * [Building a modern backend API with Node](https://scotch.io/tutorials/building-and-securing-a-modern-backend-api?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
   * [Node JS Login with Passport - YouTube](https://www.youtube.com/watch?v=Z1ktxiqyiLA)
   * [10 Best Practices for Writing Node.js REST APIs](https://blog.risingstack.com/10-best-practices-for-writing-node-js-rest-apis/?utm_source=mybridge&utm_medium=blog&utm_campaign=read_more)
-* Optimization Techniques
-  * [Make your node server faster by caching responses with redis](https://community.risingstack.com/redis-node-js-introduction-to-caching/)
-   
+  
 
 ### Learn APIs
 
@@ -152,8 +143,7 @@ The list below isn't meant to be exclusive, it's more so a collection of links t
 * [PostgreSQL Tutorial](https://www.tutorialspoint.com/postgresql/)
 * [PostgreSQL Exercises](https://pgexercises.com/)
 * [Learn PostgreSQL (GitHub)](https://github.com/dwyl/learn-postgresql)
-* [Try Redis](https://try.redis.io/)
-* [Redis Tutorial](https://www.tutorialspoint.com/redis/)
+
 
 ---
 ### Learn Authentication
@@ -174,14 +164,12 @@ The list below isn't meant to be exclusive, it's more so a collection of links t
 * Why to Use GIT [No, I have no side projects to show you](https://www.linkedin.com/pulse/i-have-side-code-projects-show-you-ezekiel-buchheit)
 
 ### Get The Job
-**Resume, Portfolio, LinkedIn, Interview Prep, and Salary Information**
+**Resume, LinkedIn, Interview Prep, and Salary Information**
 * Make your portfolio
-  * [Customizable Web Developer Portfolio](https://github.com/bmorelli25/portfolio-template) - Built with Flexbox. 
-
+  
 * How to Apply
   * [I spent 3 months applying to jobs after a coding bootcamp. Here’s what I learned. (Medium)](https://medium.freecodecamp.com/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331#.lpuzt5pnw)
   * [Lessons from my Post-bootcamp Job search (Medium)](https://medium.freecodecamp.com/lessons-from-my-post-bootcamp-job-search-in-london-cb37ea12ec2f#.u83avhawf)
-  * [How to land a six figure job in tech with no connections (Medium)](https://medium.freecodecamp.com/how-you-can-land-a-6-figure-job-in-tech-with-no-connections-6eed0de26ea4#.9cc270q7j)
 
 
 * Interview Prep
@@ -206,7 +194,7 @@ The list below isn't meant to be exclusive, it's more so a collection of links t
 
 
 
-
+---
 I create blog posts and open source packages mainly about python and data engineering.  I have a passion for learning and sharing my knowledge with others in a way that's as public as possible.  You can see a full list of what I am up to on [waylonwalker.com](waylonwalker.com).  If you found value in something I have created, I  I would love to see you join.
 
   ---
