@@ -146,8 +146,10 @@ Here are some ideas to get you started:
   * [Here are all the Git commands I used last week and what they do (Medium)](https://medium.freecodecamp.com/git-cheat-sheet-and-best-practices-c6ce5321f52)
 * Why to Use GIT [No, I have no side projects to show you](https://www.linkedin.com/pulse/i-have-side-code-projects-show-you-ezekiel-buchheit)
 
+---
+
 ### Get The Job
-**Resume, LinkedIn and Interview Prep**
+** LinkedIn and Interview Prep**
   
 * How to Apply
   * [I spent 3 months applying to jobs after a coding bootcamp. Here’s what I learned. (Medium)](https://medium.freecodecamp.com/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331#.lpuzt5pnw)
@@ -156,23 +158,11 @@ Here are some ideas to get you started:
     * [GitHub Repo - All questions and answers](https://github.com/Nitishsharma9/interview-questions/blob/main/README.md#table-of-contents)
  
 
-
-
-
-
-
-
-
-
-
-
-
-
+---
+ If you found value in something I have created, I  I would love to see you join.
 
 ---
-I create blog posts and open source packages mainly about python and data engineering.  I have a passion for learning and sharing my knowledge with others in a way that's as public as possible.  You can see a full list of what I am up to on [waylonwalker.com](waylonwalker.com).  If you found value in something I have created, I  I would love to see you join.
 
-  ---
  
   
 ### Boy Scout Rule
@@ -181,9 +171,6 @@ I love open source.  I am not a heavy maintainer of any large libraries, but I r
 
  ---
 
-
-
-I write about things I am familiar with, things that trip up folks that I mentor, and things that I am learning.  Day to day I make things with **data** using **python** and **javascript**. 
 
 
 <details>
