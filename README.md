@@ -36,10 +36,6 @@ Here are some ideas to get you started:
 12. **[Resume's, Portfolio's, LinkedIn, Interview Prep, & Salary Information](#get-the-job)**
 
 ---
-
-### Start Here
-The list below isn't meant to be exclusive, it's more so a collection of links that have helped me out along the way (and can hopefully help you). As you'll see, I've focused on JavaScript, React, and Node.js
-
 ---
 ### Programs and Classes
 
@@ -49,8 +45,7 @@ The list below isn't meant to be exclusive, it's more so a collection of links t
 * Classes
   
   * [Udacity Free Web Development Courses (Google)](https://www.udacity.com/courses/web-development)
-* GitHub
-  * [A Step by Step Guide to Making Your First GitHub Contribution]
+
 
 ---
 ### Learn HTML
@@ -164,22 +159,18 @@ The list below isn't meant to be exclusive, it's more so a collection of links t
 * Why to Use GIT [No, I have no side projects to show you](https://www.linkedin.com/pulse/i-have-side-code-projects-show-you-ezekiel-buchheit)
 
 ### Get The Job
-**Resume, LinkedIn, Interview Prep, and Salary Information**
+**Resume, LinkedIn and Interview Prep**
 * Make your portfolio
   
 * How to Apply
   * [I spent 3 months applying to jobs after a coding bootcamp. Here’s what I learned. (Medium)](https://medium.freecodecamp.com/5-key-learnings-from-the-post-bootcamp-job-search-9a07468d2331#.lpuzt5pnw)
-  * [Lessons from my Post-bootcamp Job search (Medium)](https://medium.freecodecamp.com/lessons-from-my-post-bootcamp-job-search-in-london-cb37ea12ec2f#.u83avhawf)
-
-
+  
 * Interview Prep
   * [CS50 - Prep and Practice for Technical Interviews [YouTube]](https://youtu.be/qIi-tIrcaww?t=2m32s)
   * [How to Break Into the Tech Industry—a Guide to Job Hunting and Tech Interviews](http://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/)
   * Common JavaScript Interview Questions Repo
     * [GitHub Repo - All questions and answers](https://github.com/kennymkchan/interview-questions-in-javascript)
-    
-  
-  * [10 Interview Questions every JS Developer should know (Medium)](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95#.v0dk97v5v)
+ 
 
 
 
