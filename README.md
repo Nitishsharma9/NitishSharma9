@@ -169,7 +169,7 @@ Here are some ideas to get you started:
   * [CS50 - Prep and Practice for Technical Interviews [YouTube]](https://youtu.be/qIi-tIrcaww?t=2m32s)
   * [How to Break Into the Tech Industry—a Guide to Job Hunting and Tech Interviews](http://haseebq.com/how-to-break-into-tech-job-hunting-and-interviews/)
   * Common JavaScript Interview Questions Repo
-    * [GitHub Repo - All questions and answers](https://github.com/kennymkchan/interview-questions-in-javascript)
+    * [GitHub Repo - All questions and answers](https://github.com/Nitishsharma9/interview-questions/blob/main/README.md#table-of-contents)
  
 
 
